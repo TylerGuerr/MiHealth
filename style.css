@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/triangles_pattern.png);
+    background-repeat: repeat;
+}
+
+.header {
+    display:flex;
+    justify-content: space-between; 
+    background-color: white; 
+    padding: 25px;
+}
+.header #mi {
+    color: rgb(230, 45, 45);
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+.header #health {
+    color:rgb(101, 231, 101);
+    font-size: 30px;
+}
+.header #courses p2 {
+    font-size: 20px;
+    padding-left: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#dessert {
+    padding-right: 100px;
+}
+
+.information {
+    display:flex;
+}
+#beHealthy {
+    padding: 60px 40px 0px 40px;
+}
+
+#title {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: 800;
+    padding-bottom: 25px;
+}
+#ipsum {
+    font-family: Courier, monospace;
+}
+#browse {
+    font-size: 20px;
+}
+#breakfast2 {
+    position: relative;
+}
+#lunch2 {
+    position: relative;
+}
+#dinner2 {
+    position: relative;
+}
+img {
+    height: 450px;
+    width: 325px;
+    padding: 70px 20px 0px 10px;
+    object-fit:cover;
+}
+
+#des1 {
+    display:flex;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+#des1 #fresh {
+    background-color: white;
+    padding: 10px 10px 10px 30px;
+    position:absolute;
+    right:20px;
+    bottom: 80px;
+}
+#des1 #brk {
+    background-color:rgb(101, 231, 101);
+    padding: 10px 10px 10px 50px;
+    position:absolute;
+    right:20px;
+    bottom: 40px;
+}
+
+
+
+#des2 {
+    display:flex;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+#des2 #sweet {
+    background-color: white;
+    padding: 10px 10px 10px 30px;
+    position:absolute;
+    right:20px;
+    bottom: 80px;
+}
+#des2 #lnch {
+    background-color: rgb(101, 231, 101);
+    padding: 10px 10px 10px 60px;
+    position:absolute;
+    right:20px;
+    bottom: 40px;
+}
+
+
+#des3 {
+    display:flex;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+#des3 #delicious {
+    background-color: white;
+    padding: 10px 10px 10px 30px;
+    position:absolute;
+    right:20px;
+    bottom: 80px;
+}
+#des3 #din {
+    background-color:rgb(101, 231, 101);
+    padding: 10px 10px 10px 100px;
+    position:absolute;
+    right:20px;
+    bottom: 40px;
+}
